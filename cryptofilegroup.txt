@@ -4,6 +4,7 @@ Extension
 *.1999
 *.aaa
 *.abc
+*.black_kingdom
 *.bleep
 *.ccc
 *.crinf
@@ -13,6 +14,7 @@ Extension
 *.ctb2
 *.ctbl
 *.darkness
+*.dharma
 *.ecc
 *.enc
 *.enciphered
